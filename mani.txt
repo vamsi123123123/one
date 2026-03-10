@@ -1,0 +1,3 @@
+git add mani.txt
+git commit -m "added mani.txt"
+git push origin main
